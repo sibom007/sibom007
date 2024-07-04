@@ -1,4 +1,4 @@
-  <h1 align="center">Hi I'm sibom saha</h1>
+<h1 align="center">Hi I'm sibom saha</h1>
     <h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
 
     <img
@@ -15,7 +15,7 @@
     - ?? How to reach me **Sibomsaha77@gmail.com**
 
     <h3 align="left">Connect with me:</h3>
-    <div style="display: flex; gap: 10px">
+    <div>
       <p align="left">
         <a href="https://www.facebook.com/" target="blank"
           ><img
@@ -39,8 +39,7 @@
     </div>
 
     <h3 align="left">Languages and Tools:</h3>
-    <div
-      style="display: grid; grid-template-columns: repeat(4, 100px); gap: 10px">
+    <div>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
