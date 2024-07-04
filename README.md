@@ -4,23 +4,28 @@
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
- 
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
- 
-  <img alt="Nextjs" src="[https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fimg.shields.io%2Fbadge%2Fnextjs
-)" />
-
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<div>
+      <p align="left">
+        <a href="https://www.facebook.com/" target="blank"
+          ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            alt="sibom saha"
+            height="30"
+            width="40"
+        /></a>
+      </p>
+      <p align="left">
+        <a href="https://discord.gg/j3EatKqG" target="blank"
+          ><img
+            align="center"
+            src="https://res.cloudinary.com/dwor90h8p/image/upload/v1720066164/discord_tgatln.png"
+            alt="sibom saha"
+            height="40"
+            width="40"
+        /></a>
+      </p>
+    </div>
 </p>
 <h3>Open source projects</h3>
 <table>
