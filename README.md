@@ -1,10 +1,10 @@
 <!-- Banner / Profile Image -->
 <p align="center">
-  <img src="./images.jpg" alt="Sibom Saha Developer" width="180"/>
+  <img src="https://res.cloudinary.com/db5d9twmj/image/upload/v1771524729/Tech-savvy_developer_in_coding_universe_fe8jzu.png" alt="Sibom Saha Developer" width="180"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Sibom Saha</h1>
-<h3 align="center">🚀 Full Stack Web Developer | React • Next.js • TypeScript • MongoDB</h3>
+<h1 align="center">Hi , I'm Sibom Saha</h1>
+<h3 align="center">Full Stack Web Developer | React • Next.js • TypeScript • MongoDB</h3>
 
 <p align="center">
   <a href="https://portfolio-v1-one-olive.vercel.app/">
