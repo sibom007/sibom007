@@ -14,7 +14,7 @@ React • Next.js • TypeScript • MongoDB
 
 </td>
 <td align="right">
-  <img src="https://res.cloudinary.com/db5d9twmj/image/upload/v1771524729/Tech-savvy_developer_in_coding_universe_fe8jzu.png" width="220" alt="Developer Cartoon"/>
+  <img src="https://res.cloudinary.com/db5d9twmj/image/upload/v1771525262/dev_cartoon_4x5_1_zob6lo.png"  alt="Developer Cartoon"/>
 </td>
 </tr>
 </table>
