@@ -1,113 +1,100 @@
- <h1 align="center">Hi I'm sibom saha</h1>
-    <h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
-    <img
-      align="right"
-      width="400"
-      src="https://i.ibb.co/1KPFQxM/360-F-601171862-l7y-Z0wujj8o2-Sowi-KTUsf-LEEx8-Kun-YNd.jpg"
-      alt="coding" />
-    <p align="left">
-      <img
-        src="https://komarev.com/ghpvc/?username=sibom007&label=Profile%20views&color=0e75b6&style=flat"
-        alt="sibom007" />
-    </p>
-    - ?? How to reach me **Sibomsaha77@gmail.com**
-    <h3 align="left">Connect with me:</h3>
-    <p align="left" style="display: flex;gap: 10px; justify-items: center; ">
-      <a href="https://www.facebook.com/" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-          alt="sibom saha"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://www.facebook.com/" target="blank"
-        ><img
-          align="center"
-          src="https://res.cloudinary.com/dwor90h8p/image/upload/v1720066164/discord_tgatln.png"
-          alt="sibom saha"
-          height="40"
-          width="40"
-      /></a>
-    </p>
-    <h3 align="left">Languages and Tools:</h3>
-    <p align="left">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-          alt="html5"
-          width="40"
-          height="40" />
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-          alt="css3"
-          width="40"
-          height="40" />
-        <img
-          src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-          alt="firebase"
-          width="40"
-          height="40" />
-        <img
-          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-          alt="git"
-          width="40"
-          height="40" />
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="40"
-          height="40" />
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-          alt="mongodb"
-          width="40"
-          height="40" />
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-          alt="nodejs"
-          width="40"
-          height="40" />
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="react"
-          width="40"
-          height="40" />
-        <img
-          src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-          alt="tailwind"
-          width="40"
-          height="40" />
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-          alt="typescript"
-          width="40"
-          height="40" />
-        <img
-          src="https://res.cloudinary.com/dwor90h8p/image/upload/v1720066721/images_1_bdxql2.png"
-          alt="typescript"
-          width="40"
-          height="40" />
-        <img
-          src="https://res.cloudinary.com/dwor90h8p/image/upload/v1720066609/postgresql-icon-1987x2048-v2fkmdaw_zdvwrb.png"
-          alt="typescript"
-          width="40"
-          height="40" />
-        <img
-          src="https://res.cloudinary.com/dwor90h8p/image/upload/v1720066578/images_cvaayi.png"
-          alt="typescript"
-          width="40"
-          height="40" />
-    </p>
-    </p>
-    <p>
-      &nbsp;<img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=sibom007&show_icons=true&locale=en"
-        alt="sibom007" />
-    </p>
-    <p>
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=sibom007&"
-        alt="sibom007" />
-    </p>
+<!-- Banner / Profile Image -->
+<p align="center">
+  <img src="./images.jpg" alt="Sibom Saha Developer" width="180"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Sibom Saha</h1>
+<h3 align="center">🚀 Full Stack Web Developer | React • Next.js • TypeScript • MongoDB</h3>
+
+<p align="center">
+  <a href="https://portfolio-v1-one-olive.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:sibomsaha77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sibom007">
+    <img src="https://img.shields.io/badge/GitHub-sibom007-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 💫 About Me
+- 🔭 Currently working as a **Full Stack Developer**
+- 🌱 Learning **AI-powered projects with Next.js & TypeScript**
+- 💡 Passionate about building real-world problem solving applications
+- 🤝 Open to collaboration & UI/UX improvement
+- ⚡ Fun fact: **I enjoy solving real-world problems with code**
+
+---
+
+## 🧠 Ask Me About
+`React` • `Next.js` • `TypeScript` • `MongoDB` • `Node.js` • `Express.js` • `Tailwind CSS` • `Shadcn UI` • `Prisma` • `Mongoose` • `Redux` • `Firebase` • `Convex` • `CodeMirror`
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css,materialui" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🩸 Blood Donate (Full Stack)
+- Advanced donor search with blood group & availability filtering  
+- Location-based donor discovery  
+- Tech: TypeScript, Node.js, Express, Prisma, Redux, Tailwind, JWT  
+
+### 💻 Online IDE with AI Features
+- Browser-based real-time code editor  
+- AI code suggestions & error assistance  
+- Tech: Next.js, React, Tailwind, CodeMirror, Convex, AI SDK  
+
+### 📚 I-Library (Team Project)
+- Admin book management system  
+- Kids zone & premium feature access  
+- Tech: Next.js, MongoDB, Firebase, Express, Tailwind  
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sibom007&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibom007&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sibom007&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+<p align="center">
+  <a href="https://github.com/sibom007">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
+  <a href="mailto:sibomsaha77@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+  </a>
+</p>
+
+---
+
+## 📄 Resume
+📎 [View My Resume](https://drive.google.com/file/d/1V4oNHV8M2mrSkB2MqY1bjrk9yi9h-Iqr/view)
